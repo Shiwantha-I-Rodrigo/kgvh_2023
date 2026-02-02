@@ -200,8 +200,8 @@ All work presented in this repository is original and created for academic purpo
 
 ## Author
 
-**Student Name:** WITHARANAGE SHIWANTHA INDUNIL RODRIGO
-**Institution:** UNIVERSITY OF COLOMBO SCHOOL OF COMPUTING
+**Student Name:** WITHARANAGE SHIWANTHA INDUNIL RODRIGO\
+**Institution:** UNIVERSITY OF COLOMBO SCHOOL OF COMPUTING\
 **Academic Year:** 2024
 
 ---
