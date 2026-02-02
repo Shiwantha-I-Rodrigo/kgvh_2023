@@ -25,6 +25,38 @@ The system was developed using **PHP**, **Lighttpd** and **MariaDB**, following 
 - Password recovery with email verification.
 - **Realtime** input validation.
 
+> Home Screen
+
+![home](/Screenshots/home.png)
+
+> Welcome Screen
+
+![home](/Screenshots/welcome.png)
+
+> Registration Form
+
+![home](/Screenshots/registration.png)
+
+> Login Page
+
+![home](/Screenshots/login.png)
+
+> Room Selection
+
+![home](/Screenshots/rooms.png)
+
+> Reservation Confirmation
+
+![home](/Screenshots/rooms_2.png)
+
+> Dashboard
+
+![home](/Screenshots/profile.png)
+
+> Chat Feature
+
+![home](/Screenshots/chat.png)
+
 ---
 
 ### Management Side (Admin & Staff)
@@ -39,37 +71,29 @@ The system was developed using **PHP**, **Lighttpd** and **MariaDB**, following 
     + Revenue reports
     + Room occupancy reports
 
----
+> Employee Home Screen
 
-> Home Screen
+![home](/Screenshots/e_home.png)
 
-![home](/Screenshots/home.png)
+> Employee Login Page
 
-> Welcome Screen
+![home](/Screenshots/e_login.png)
 
-![home](/Screenshots/welcome.png)
+> Employee Dashboard
 
-> Home Screen (Management)
+![home](/Screenshots/e_profile.png)
 
-![home](/Screenshots/employee.png)
+> Employee Registration
 
-> Login Page
+![home](/Screenshots/e_employee.png)
 
-![home](/Screenshots/login.png)
+> Asset Management
 
-> Registration Page
+![home](/Screenshots/e_room.png)
 
-![home](/Screenshots/register.png)
+> Report Generation
 
-![home](/Screenshots/success.png)
-
-> Available Rooms
-
-![home](/Screenshots/search.png)
-
-> Chat Feature
-
-![home](/Screenshots/chat.png)
+![home](/Screenshots/e_report.png)
 
 ---
 
